@@ -1,0 +1,64 @@
+.mainBody {
+	margin: auto;
+	width: 750px;
+	outline: 3px dotted  green;
+    background-color: black;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+    color: white;
+	margin: 0;
+    background:url(https://i.ibb.co/dDzXJ8c/imageedit-1-2315110080.jpg);
+    font-family: sans-serif;
+}
+
+/* Style the header */
+.header {
+	padding: 10px;
+	text-align: center;
+	height: 75px;
+}
+
+/* Style the top navigation bar */
+.topNav {
+    outline: 3px solid green;
+	overflow: hidden;
+}
+
+/* Style the topnav links */
+.topNav a {
+    color: #ac85bb;
+	float: left;
+	display: block;
+	padding: 14px 16px;
+	height: 40px;
+}
+
+/* Clear floats after the columns */
+.row::after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+.content {
+	padding: 10px;
+}
+
+.footer {
+    text-align: center;
+    font-size: small;
+    background-color: black;
+	margin: auto;
+	width: 750px;
+	outline: 3px dotted  green;
+	height: 75px;
+}
+
+.footer a {
+    color: #ac85bb;
+}
