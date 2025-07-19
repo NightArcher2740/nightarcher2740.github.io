@@ -53,7 +53,12 @@ document.addEventListener('DOMContentLoaded', function() {
       renderCalendar(currentMonth, currentYear);
     });
 
+  // Sound effect for move buttons
+  const moveSound = new Audio('assets/sounds/move.mp3');
+
   document.getElementById('prevMonth').onclick = function() {
+    moveSound.currentTime = 0;
+    moveSound.play();
     currentMonth--;
     if (currentMonth < 0) {
       currentMonth = 11;
@@ -63,6 +68,8 @@ document.addEventListener('DOMContentLoaded', function() {
   };
 
   document.getElementById('nextMonth').onclick = function() {
+    moveSound.currentTime = 0;
+    moveSound.play();
     currentMonth++;
     if (currentMonth > 11) {
       currentMonth = 0;
@@ -72,10 +79,12 @@ document.addEventListener('DOMContentLoaded', function() {
   };
 
   document.getElementById('todayBtn').onclick = function() {
+    moveSound.currentTime = 0;
+    moveSound.play();
     currentMonth = today.getMonth();
     currentYear = today.getFullYear();
-  renderCalendar(currentMonth, currentYear);
-};
+    renderCalendar(currentMonth, currentYear);
+  };
 
   renderCalendar(currentMonth, currentYear);
 });
