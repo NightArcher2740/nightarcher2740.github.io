@@ -1,8 +1,8 @@
 {
   "XXXX-01-01": [
     {
-      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-      "alt": "Bob"
+      "icon": "https://static.wikia.nocookie.net/animalcrossing/images/0/07/Party_Popper_2_%28New_Leaf_icon%29.PNG/revision/latest?cb=20140917083754",
+      "alt": "New Year's Day - Bob"
     }
   ],
   "XXXX-01-02": [
@@ -188,7 +188,7 @@
   "XXXX-02-02": [
     {
       "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-      "alt": "Jitters"
+      "alt": "Groundhog Day - Jitters"
     }
   ],
   "XXXX-02-03": [
@@ -260,7 +260,7 @@
   "XXXX-02-14": [
     {
       "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-      "alt": "Muffy"
+      "alt": "Valentine's Day - Muffy"
     }
   ],
   "XXXX-02-15": [
@@ -428,7 +428,7 @@
   "XXXX-03-17": [
     {
       "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-      "alt": "Cheri"
+      "alt": "Shamrock Day - Cheri"
     }
   ],
   "XXXX-03-19": [
@@ -507,6 +507,12 @@
     {
       "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
       "alt": "Klaus"
+    }
+  ],
+  "XXXX-04-01": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "April Fools' Day"
     }
   ],
   "XXXX-04-02": [
@@ -626,7 +632,7 @@
   "XXXX-04-22": [
     {
       "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-      "alt": "Phoebe"
+      "alt": "Nature Day - Phoebe"
     }
   ],
   "XXXX-04-23": [
@@ -980,7 +986,7 @@
   "XXXX-06-21": [
     {
       "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-      "alt": "Sydney"
+      "alt": "Summer Solstice - Sydney"
     }
   ],
   "XXXX-06-22": [
@@ -1763,6 +1769,12 @@
       "alt": "Wade"
     }
   ],
+  "XXXX-10-31": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Halloween"
+    }
+  ],
   "XXXX-11-01": [
     {
       "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
@@ -2066,7 +2078,7 @@
   "XXXX-12-21": [
     {
       "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-      "alt": "Blanche"
+      "alt": "Winter Solstice - Blanche"
     }
   ],
   "XXXX-12-22": [
@@ -2079,6 +2091,12 @@
     {
       "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
       "alt": "Ken"
+    }
+  ],
+  "XXXX-12-24": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Toy Day"
     }
   ],
   "XXXX-12-25": [
@@ -2120,7 +2138,7 @@
   "XXXX-12-31": [
     {
       "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-      "alt": "Marcel"
+      "alt": "New Year's Eve - Marcel"
     }
   ]
 }
