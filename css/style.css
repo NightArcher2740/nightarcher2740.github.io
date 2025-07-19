@@ -2,7 +2,7 @@
 .mainBody {
 	margin: auto;
 	width: 750px;
-	outline: 3px dotted #51a33d;
+	outline: 3px solid #51a33d;
     background-color: white;
 }
 
@@ -26,7 +26,7 @@ body {
 
 /* Style the top navigation bar */
 .topNav {
-    outline: 3px solid #51a33d;
+    outline: 3px dashed #51a33d;
 	overflow: hidden;
 }
 
@@ -48,7 +48,7 @@ body {
 
 .calendar {
 	background: #fff;
-	border: 3px solid #51a33d;
+	border: 3px dashed #51a33d;
 	padding: 1em;
 	margin: 2em 0;
 	width: 320px;
@@ -132,7 +132,7 @@ body {
     background-color: white;
 	margin: auto;
 	width: 750px;
-	outline: 3px dotted #51a33d;
+	outline: 3px solid #51a33d;
 	height: 75px;
 }
 
