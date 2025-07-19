@@ -1,0 +1,141 @@
+/* Style body of page */
+.mainBody {
+	margin: auto;
+	width: 750px;
+	outline: 3px dotted #51a33d;
+    background-color: white;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+    color: black;
+	margin: 0;
+    background:url(https://i.pinimg.com/564x/1a/42/bf/1a42bf5b978936c001efd64fb1755b89.jpg);
+    font-family: sans-serif;
+}
+
+/* Style the header */
+.header {
+	padding: 10px;
+	text-align: center;
+	height: 75px;
+}
+
+/* Style the top navigation bar */
+.topNav {
+    outline: 3px solid #51a33d;
+	overflow: hidden;
+}
+
+/* Style the topnav links */
+.topNav a {
+    color: #ac85bb;
+	float: left;
+	display: block;
+	padding: 14px 16px;
+	height: 40px;
+}
+
+/* Clear floats after the columns */
+.row::after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+.calendar {
+	background: #fff;
+	border: 3px solid #51a33d;
+	padding: 1em;
+	margin: 2em 0;
+	width: 320px;
+	box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+#todayBtn {
+  background-color: #EDBE4A;
+  border: none;
+  padding: 5px 10px;
+  font-weight: bold;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#todayBtn:hover {
+  background-color: #EDDF99;
+}
+
+.header-calendar {
+	color: black;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 1em;
+}
+
+#monthYear {
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+.weekdays, .days {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 4px;
+}
+
+.weekdays div {
+  text-align: center;
+  font-weight: bold;
+  padding: 4px 0;
+  background-color: #EDBE4A;
+  border-radius: 4px;
+}
+
+.days div {
+  position: relative;
+  height: 40px;
+  text-align: center;
+  line-height: 40px;
+  background-color: #ffffff;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.days div:hover {
+  background-color: #EDDF99;
+}
+
+.days .today {
+  background-color: #edd24a !important;
+}
+
+.icon {
+  position: absolute;
+  bottom: 2px;
+  right: 2px;
+  width: 16px;
+  height: 16px;
+}
+
+.content {
+	padding: 10px;
+}
+
+.footer {
+    text-align: center;
+    font-size: small;
+    background-color: white;
+	margin: auto;
+	width: 750px;
+	outline: 3px dotted #51a33d;
+	height: 75px;
+}
+
+.footer a {
+    color: #ac85bb;
+}
