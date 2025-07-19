@@ -54,7 +54,7 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
   // Sound effect for move buttons
-  const moveSound = new Audio('assets/sounds/move.mp3');
+  const moveSound = new Audio('https://github.com/NightArcher2740/nightarcher2740.github.io/blob/main/audio/Move.wav');
 
   document.getElementById('prevMonth').onclick = function() {
     moveSound.currentTime = 0;
