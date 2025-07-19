@@ -1,1418 +1,2126 @@
 {
-  "XXXX-01-01": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Bob"
-  },
-  "XXXX-01-02": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Poncho"
-  },
-  "XXXX-01-03": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Joey"
-  },
-  "XXXX-01-04": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Diana"
-  },
-  "XXXX-01-05": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Roald"
-  },
-  "XXXX-01-06": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Carmen"
-  },
-  "XXXX-01-07": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Harry"
-  },
-  "XXXX-01-08": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Pierce"
-  },
-  "XXXX-01-09": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Tiffany"
-  },
-  "XXXX-01-10": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Papi"
-  },
-  "XXXX-01-11": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Maddie"
-  },
-  "XXXX-01-12": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Moe"
-  },
-  "XXXX-01-13": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Puddles"
-  },
-  "XXXX-01-14": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Velma"
-  },
-  "XXXX-01-15": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Gladys"
-  },
-  "XXXX-01-16": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Ursala"
-  },
-  "XXXX-01-17": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Rizzo"
-  },
-  "XXXX-01-18": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Chelsea"
-  },
-  "XXXX-01-19": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Simon"
-  },
-  "XXXX-01-20": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Opal"
-  },
-  "XXXX-01-21": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Genji"
-  },
-  "XXXX-01-22": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Francine"
-  },
-  "XXXX-01-23": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Gwen"
-  },
-  "XXXX-01-24": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Rhonda"
-  },
-  "XXXX-01-25": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Savannah"
-  },
-  "XXXX-01-27": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "\ufffdAurora"
-  },
-  "XXXX-01-28": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Margie"
-  },
-  "XXXX-01-29": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Cube"
-  },
-  "XXXX-01-30": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Flurry"
-  },
-  "XXXX-01-31": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Winnie"
-  },
-  "XXXX-02-01": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Bill"
-  },
-  "XXXX-02-02": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Jitters"
-  },
-  "XXXX-02-03": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Olivia"
-  },
-  "XXXX-02-04": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Lily"
-  },
-  "XXXX-02-05": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Penelope"
-  },
-  "XXXX-02-06": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Annalisa"
-  },
-  "XXXX-02-07": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Boomer"
-  },
-  "XXXX-02-08": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Frobert"
-  },
-  "XXXX-02-09": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Flora"
-  },
-  "XXXX-02-10": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Stitches"
-  },
-  "XXXX-02-11": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Pompom"
-  },
-  "XXXX-02-12": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Drago"
-  },
-  "XXXX-02-13": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Ribbot"
-  },
-  "XXXX-02-14": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Muffy"
-  },
-  "XXXX-02-15": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Kitty"
-  },
-  "XXXX-02-16": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Anabelle"
-  },
-  "XXXX-02-17": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Dobie"
-  },
-  "XXXX-02-18": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Dora"
-  },
-  "XXXX-02-19": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Freckles"
-  },
-  "XXXX-02-20": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Sprinkle"
-  },
-  "XXXX-02-21": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Puck"
-  },
-  "XXXX-02-23": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Pate"
-  },
-  "XXXX-02-24": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Anicotti"
-  },
-  "XXXX-02-25": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Hamphrey"
-  },
-  "XXXX-02-26": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Sheldon"
-  },
-  "XXXX-02-27": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Rosie"
-  },
-  "XXXX-02-28": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Naomi"
-  },
-  "XXXX-03-01": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Coco"
-  },
-  "XXXX-03-02": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Barold"
-  },
-  "XXXX-03-03": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Bonbon"
-  },
-  "XXXX-03-04": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Anchovy"
-  },
-  "XXXX-03-05": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Gala"
-  },
-  "XXXX-03-06": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Chai"
-  },
-  "XXXX-03-07": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Molly"
-  },
-  "XXXX-03-08": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Zucker"
-  },
-  "XXXX-03-09": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Cyrano"
-  },
-  "XXXX-03-11": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Hopkins"
-  },
-  "XXXX-03-12": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Midge"
-  },
-  "XXXX-03-14": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Dotty"
-  },
-  "XXXX-03-15": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Julian"
-  },
-  "XXXX-03-16": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Doc"
-  },
-  "XXXX-03-17": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Cheri"
-  },
-  "XXXX-03-19": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Merengue"
-  },
-  "XXXX-03-20": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Hornsby"
-  },
-  "XXXX-03-21": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Elise"
-  },
-  "XXXX-03-22": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Paula"
-  },
-  "XXXX-03-23": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Axel"
-  },
-  "XXXX-03-24": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Skye"
-  },
-  "XXXX-03-25": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Fauna"
-  },
-  "XXXX-03-26": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Louie"
-  },
-  "XXXX-03-27": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Lolly"
-  },
-  "XXXX-03-28": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Baabara"
-  },
-  "XXXX-03-29": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Biff"
-  },
-  "XXXX-03-30": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Felicity"
-  },
-  "XXXX-03-31": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Klaus"
-  },
-  "XXXX-04-02": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Cashmere"
-  },
-  "XXXX-04-03": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Eunice"
-  },
-  "XXXX-04-04": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Buck"
-  },
-  "XXXX-04-05": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Beau"
-  },
-  "XXXX-04-06": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Hopper"
-  },
-  "XXXX-04-07": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Rasher"
-  },
-  "XXXX-04-08": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Maelle"
-  },
-  "XXXX-04-09": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Stella"
-  },
-  "XXXX-04-10": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Shari"
-  },
-  "XXXX-04-11": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Punchy"
-  },
-  "XXXX-04-12": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Melba"
-  },
-  "XXXX-04-13": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Candi"
-  },
-  "XXXX-04-14": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Rocket"
-  },
-  "XXXX-04-16": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Marty"
-  },
-  "XXXX-04-17": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Charlise"
-  },
-  "XXXX-04-18": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Piper"
-  },
-  "XXXX-04-19": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Pietro"
-  },
-  "XXXX-04-20": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Stu"
-  },
-  "XXXX-04-21": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Agnes"
-  },
-  "XXXX-04-22": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Phoebe"
-  },
-  "XXXX-04-23": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Miranda"
-  },
-  "XXXX-04-24": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Walt"
-  },
-  "XXXX-04-25": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Bertha"
-  },
-  "XXXX-04-26": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Kevin"
-  },
-  "XXXX-04-27": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Katt"
-  },
-  "XXXX-04-28": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Ava"
-  },
-  "XXXX-04-29": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Coach"
-  },
-  "XXXX-04-30": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Angus"
-  },
-  "XXXX-05-01": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Clyde"
-  },
-  "XXXX-05-02": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Mint"
-  },
-  "XXXX-05-03": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Sylvia"
-  },
-  "XXXX-05-04": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Deirdre"
-  },
-  "XXXX-05-05": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Paolo"
-  },
-  "XXXX-05-06": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Tank"
-  },
-  "XXXX-05-07": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Ozzie"
-  },
-  "XXXX-05-08": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Curlos"
-  },
-  "XXXX-05-09": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Bunnie"
-  },
-  "XXXX-05-10": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Patty"
-  },
-  "XXXX-05-11": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Cherry"
-  },
-  "XXXX-05-12": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Ellie"
-  },
-  "XXXX-05-13": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Biskit"
-  },
-  "XXXX-05-14": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Canberra"
-  },
-  "XXXX-05-15": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Leonardo"
-  },
-  "XXXX-05-16": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Ike"
-  },
-  "XXXX-05-17": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Gayle"
-  },
-  "XXXX-05-18": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Pekoe"
-  },
-  "XXXX-05-19": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Olaf"
-  },
-  "XXXX-05-20": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "T-Bone"
-  },
-  "XXXX-05-21": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "June"
-  },
-  "XXXX-05-22": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Colton"
-  },
-  "XXXX-05-23": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Peggy"
-  },
-  "XXXX-05-24": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Deli"
-  },
-  "XXXX-05-25": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Derwin"
-  },
-  "XXXX-05-26": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Bruce"
-  },
-  "XXXX-05-27": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Del"
-  },
-  "XXXX-05-28": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Cece"
-  },
-  "XXXX-05-29": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Purrl"
-  },
-  "XXXX-05-30": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Hamlet"
-  },
-  "XXXX-05-31": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Marcie"
-  },
-  "XXXX-06-01": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Keaton"
-  },
-  "XXXX-06-02": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Inkwell"
-  },
-  "XXXX-06-03": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Filbert"
-  },
-  "XXXX-06-05": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Camofrog"
-  },
-  "XXXX-06-06": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Raddle"
-  },
-  "XXXX-06-07": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Zell"
-  },
-  "XXXX-06-08": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Peanut"
-  },
-  "XXXX-06-09": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Alfonso"
-  },
-  "XXXX-06-10": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Walker"
-  },
-  "XXXX-06-11": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Pudge"
-  },
-  "XXXX-06-12": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Bettina"
-  },
-  "XXXX-06-13": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Scoot"
-  },
-  "XXXX-06-14": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Pippy"
-  },
-  "XXXX-06-15": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Maple"
-  },
-  "XXXX-06-16": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Roscoe"
-  },
-  "XXXX-06-17": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Spike\ufffdand\ufffdTangy"
-  },
-  "XXXX-06-18": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Cookie"
-  },
-  "XXXX-06-19": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Sally"
-  },
-  "XXXX-06-20": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Graham"
-  },
-  "XXXX-06-21": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Sydney"
-  },
-  "XXXX-06-22": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Jacques"
-  },
-  "XXXX-06-23": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Tammy"
-  },
-  "XXXX-06-24": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Bluebear"
-  },
-  "XXXX-06-25": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Drake"
-  },
-  "XXXX-06-26": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Marina"
-  },
-  "XXXX-06-27": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Deena"
-  },
-  "XXXX-06-28": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Kidd"
-  },
-  "XXXX-06-29": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Merry"
-  },
-  "XXXX-06-30": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Broccolo"
-  },
-  "XXXX-07-01": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Curt"
-  },
-  "XXXX-07-02": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Agent S"
-  },
-  "XXXX-07-03": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Blaire"
-  },
-  "XXXX-07-04": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Apollo"
-  },
-  "XXXX-07-05": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Samson"
-  },
-  "XXXX-07-06": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Mira"
-  },
-  "XXXX-07-07": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Bree"
-  },
-  "XXXX-07-08": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Jeremiah"
-  },
-  "XXXX-07-09": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Huck"
-  },
-  "XXXX-07-10": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Mott"
-  },
-  "XXXX-07-11": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Filly"
-  },
-  "XXXX-07-12": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Olive"
-  },
-  "XXXX-07-13": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Twiggy"
-  },
-  "XXXX-07-14": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Dizzy"
-  },
-  "XXXX-07-15": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Caroline"
-  },
-  "XXXX-07-16": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Frita"
-  },
-  "XXXX-07-17": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Jay"
-  },
-  "XXXX-07-18": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Croque"
-  },
-  "XXXX-07-19": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Nibbles"
-  },
-  "XXXX-07-20": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Yuka"
-  },
-  "XXXX-07-21": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Prince"
-  },
-  "XXXX-07-22": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Chow"
-  },
-  "XXXX-07-23": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Elvis"
-  },
-  "XXXX-07-24": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "O'Hare"
-  },
-  "XXXX-07-25": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Peck"
-  },
-  "XXXX-07-26": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Curly"
-  },
-  "XXXX-07-27": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Erik"
-  },
-  "XXXX-07-28": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Truffles"
-  },
-  "XXXX-07-29": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Lionel"
-  },
-  "XXXX-07-30": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Frank"
-  },
-  "XXXX-07-31": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Grizzly"
-  },
-  "XXXX-08-01": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Kid Cat"
-  },
-  "XXXX-08-02": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Vladimir"
-  },
-  "XXXX-08-03": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Benjamin"
-  },
-  "XXXX-08-04": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Bones"
-  },
-  "XXXX-08-05": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Poppy"
-  },
-  "XXXX-08-06": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Chester"
-  },
-  "XXXX-08-07": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Boots"
-  },
-  "XXXX-08-08": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Bud"
-  },
-  "XXXX-08-09": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Soleil"
-  },
-  "XXXX-08-10": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Cole"
-  },
-  "XXXX-08-11": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Gigi"
-  },
-  "XXXX-08-12": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Gloria"
-  },
-  "XXXX-08-13": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Tabby"
-  },
-  "XXXX-08-14": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Leopold"
-  },
-  "XXXX-08-15": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Wendy"
-  },
-  "XXXX-08-16": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Nate"
-  },
-  "XXXX-08-17": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Stinky"
-  },
-  "XXXX-08-18": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Rocco"
-  },
-  "XXXX-08-19": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Alice"
-  },
-  "XXXX-08-20": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Lopez"
-  },
-  "XXXX-08-21": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Wart Jr."
-  },
-  "XXXX-08-22": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Rolf"
-  },
-  "XXXX-08-23": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Nana"
-  },
-  "XXXX-08-24": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Jacob"
-  },
-  "XXXX-08-25": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Tipper"
-  },
-  "XXXX-08-26": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Rowan"
-  },
-  "XXXX-08-27": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Bangle"
-  },
-  "XXXX-08-28": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Chrissy"
-  },
-  "XXXX-08-29": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Gruff"
-  },
-  "XXXX-08-30": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Hazel"
-  },
-  "XXXX-09-01": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Violet"
-  },
-  "XXXX-09-02": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Flo"
-  },
-  "XXXX-09-03": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Maggie"
-  },
-  "XXXX-09-04": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Cally"
-  },
-  "XXXX-09-05": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Greta"
-  },
-  "XXXX-09-06": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Cesar"
-  },
-  "XXXX-09-07": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Tucker"
-  },
-  "XXXX-09-08": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Astrid"
-  },
-  "XXXX-09-09": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Pinky"
-  },
-  "XXXX-09-10": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Pecan"
-  },
-  "XXXX-09-11": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Peewee"
-  },
-  "XXXX-09-12": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Boone"
-  },
-  "XXXX-09-13": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Moose"
-  },
-  "XXXX-09-14": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Ricky"
-  },
-  "XXXX-09-15": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Tutu"
-  },
-  "XXXX-09-16": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Ed"
-  },
-  "XXXX-09-17": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Whitney"
-  },
-  "XXXX-09-18": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Bubbles"
-  },
-  "XXXX-09-19": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Fuchsia"
-  },
-  "XXXX-09-20": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Norma"
-  },
-  "XXXX-09-21": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Henry"
-  },
-  "XXXX-09-22": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Ankha"
-  },
-  "XXXX-09-23": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Cranston"
-  },
-  "XXXX-09-24": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Apple"
-  },
-  "XXXX-09-25": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Mitzi"
-  },
-  "XXXX-09-26": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Teddy"
-  },
-  "XXXX-09-27": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Beardo"
-  },
-  "XXXX-09-28": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Kody"
-  },
-  "XXXX-09-29": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Marshal"
-  },
-  "XXXX-09-30": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Monique"
-  },
-  "XXXX-10-01": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Boyd"
-  },
-  "XXXX-10-02": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Diva"
-  },
-  "XXXX-10-03": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Big Top"
-  },
-  "XXXX-10-04": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Goose"
-  },
-  "XXXX-10-05": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Elmer"
-  },
-  "XXXX-10-06": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Bitty"
-  },
-  "XXXX-10-07": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Cobb"
-  },
-  "XXXX-10-08": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Kiki"
-  },
-  "XXXX-10-09": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Drift"
-  },
-  "XXXX-10-10": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Benedict"
-  },
-  "XXXX-10-11": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Kitt"
-  },
-  "XXXX-10-12": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Lyman"
-  },
-  "XXXX-10-13": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Chops"
-  },
-  "XXXX-10-14": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Egbert"
-  },
-  "XXXX-10-15": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Bea"
-  },
-  "XXXX-10-16": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Friga"
-  },
-  "XXXX-10-17": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Limberg"
-  },
-  "XXXX-10-18": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Al"
-  },
-  "XXXX-10-19": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Clay"
-  },
-  "XXXX-10-20": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Antonio"
-  },
-  "XXXX-10-21": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Sandy"
-  },
-  "XXXX-10-22": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Sylvana"
-  },
-  "XXXX-10-23": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Groucho"
-  },
-  "XXXX-10-24": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Broffina"
-  },
-  "XXXX-10-25": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Portia"
-  },
-  "XXXX-10-26": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Eugene"
-  },
-  "XXXX-10-27": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Jambette"
-  },
-  "XXXX-10-28": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Gaston"
-  },
-  "XXXX-10-29": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Rodeo"
-  },
-  "XXXX-10-30": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Wade"
-  },
-  "XXXX-11-01": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Butch\ufffdand\ufffdRilla"
-  },
-  "XXXX-11-02": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Iggly"
-  },
-  "XXXX-11-03": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Snake"
-  },
-  "XXXX-11-04": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Lucky"
-  },
-  "XXXX-11-05": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Lobo"
-  },
-  "XXXX-11-06": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Boris"
-  },
-  "XXXX-11-07": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Bam"
-  },
-  "XXXX-11-08": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Alli"
-  },
-  "XXXX-11-09": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Pango"
-  },
-  "XXXX-11-10": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Rodney"
-  },
-  "XXXX-11-11": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Mac"
-  },
-  "XXXX-11-12": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Mathilda"
-  },
-  "XXXX-11-13": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Queenie"
-  },
-  "XXXX-11-14": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Pancetti"
-  },
-  "XXXX-11-15": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Sly"
-  },
-  "XXXX-11-16": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Daisy"
-  },
-  "XXXX-11-17": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Mallary"
-  },
-  "XXXX-11-18": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Tia"
-  },
-  "XXXX-11-19": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Amelia"
-  },
-  "XXXX-11-20": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Sparro"
-  },
-  "XXXX-11-21": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Epona"
-  },
-  "XXXX-11-22": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Claudia"
-  },
-  "XXXX-11-23": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Knox"
-  },
-  "XXXX-11-24": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Shep"
-  },
-  "XXXX-11-25": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Wolfgang"
-  },
-  "XXXX-11-26": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Willow"
-  },
-  "XXXX-11-27": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Phil"
-  },
-  "XXXX-11-28": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Peaches"
-  },
-  "XXXX-11-29": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Kabuki"
-  },
-  "XXXX-11-30": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Tasha"
-  },
-  "XXXX-12-01": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Rooney"
-  },
-  "XXXX-12-02": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Annalise"
-  },
-  "XXXX-12-03": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Claude"
-  },
-  "XXXX-12-04": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Robin"
-  },
-  "XXXX-12-05": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Hans"
-  },
-  "XXXX-12-06": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Kyle"
-  },
-  "XXXX-12-07": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Monty"
-  },
-  "XXXX-12-08": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Eloise"
-  },
-  "XXXX-12-09": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Becky"
-  },
-  "XXXX-12-10": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Tom"
-  },
-  "XXXX-12-11": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Sterling"
-  },
-  "XXXX-12-12": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Lucha"
-  },
-  "XXXX-12-13": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Bianca"
-  },
-  "XXXX-12-14": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Freya"
-  },
-  "XXXX-12-15": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Chadder"
-  },
-  "XXXX-12-16": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Gabi"
-  },
-  "XXXX-12-17": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Cousteau"
-  },
-  "XXXX-12-18": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Fang"
-  },
-  "XXXX-12-19": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Chief"
-  },
-  "XXXX-12-20": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Rudy"
-  },
-  "XXXX-12-21": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Blanche"
-  },
-  "XXXX-12-22": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Quillson"
-  },
-  "XXXX-12-23": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Ken"
-  },
-  "XXXX-12-25": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "\ufffdtoile"
-  },
-  "XXXX-12-26": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Pashmina"
-  },
-  "XXXX-12-27": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Goldie"
-  },
-  "XXXX-12-28": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Bella"
-  },
-  "XXXX-12-29": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Murphy\ufffdand\ufffdVic"
-  },
-  "XXXX-12-30": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Hugh"
-  },
-  "XXXX-12-31": {
-    "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
-    "alt": "Marcel"
-  }
+  "XXXX-01-01": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Bob"
+    }
+  ],
+  "XXXX-01-02": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Poncho"
+    }
+  ],
+  "XXXX-01-03": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Joey"
+    }
+  ],
+  "XXXX-01-04": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Diana"
+    }
+  ],
+  "XXXX-01-05": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Roald"
+    }
+  ],
+  "XXXX-01-06": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Carmen"
+    }
+  ],
+  "XXXX-01-07": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Harry"
+    }
+  ],
+  "XXXX-01-08": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Pierce"
+    }
+  ],
+  "XXXX-01-09": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Tiffany"
+    }
+  ],
+  "XXXX-01-10": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Papi"
+    }
+  ],
+  "XXXX-01-11": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Maddie"
+    }
+  ],
+  "XXXX-01-12": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Moe"
+    }
+  ],
+  "XXXX-01-13": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Puddles"
+    }
+  ],
+  "XXXX-01-14": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Velma"
+    }
+  ],
+  "XXXX-01-15": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Gladys"
+    }
+  ],
+  "XXXX-01-16": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Ursala"
+    }
+  ],
+  "XXXX-01-17": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Rizzo"
+    }
+  ],
+  "XXXX-01-18": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Chelsea"
+    }
+  ],
+  "XXXX-01-19": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Simon"
+    }
+  ],
+  "XXXX-01-20": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Opal"
+    }
+  ],
+  "XXXX-01-21": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Genji"
+    }
+  ],
+  "XXXX-01-22": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Francine"
+    }
+  ],
+  "XXXX-01-23": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Gwen"
+    }
+  ],
+  "XXXX-01-24": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Rhonda"
+    }
+  ],
+  "XXXX-01-25": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Savannah"
+    }
+  ],
+  "XXXX-01-27": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Admiral and Aurora"
+    }
+  ],
+  "XXXX-01-28": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Margie"
+    }
+  ],
+  "XXXX-01-29": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Cube"
+    }
+  ],
+  "XXXX-01-30": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Flurry"
+    }
+  ],
+  "XXXX-01-31": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Winnie"
+    }
+  ],
+  "XXXX-02-01": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Bill"
+    }
+  ],
+  "XXXX-02-02": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Jitters"
+    }
+  ],
+  "XXXX-02-03": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Olivia"
+    }
+  ],
+  "XXXX-02-04": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Lily"
+    }
+  ],
+  "XXXX-02-05": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Penelope"
+    }
+  ],
+  "XXXX-02-06": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Annalisa"
+    }
+  ],
+  "XXXX-02-07": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Boomer"
+    }
+  ],
+  "XXXX-02-08": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Frobert"
+    }
+  ],
+  "XXXX-02-09": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Cleo and Flora"
+    }
+  ],
+  "XXXX-02-10": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Stitches"
+    }
+  ],
+  "XXXX-02-11": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Pompom"
+    }
+  ],
+  "XXXX-02-12": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Drago"
+    }
+  ],
+  "XXXX-02-13": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Ribbot"
+    }
+  ],
+  "XXXX-02-14": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Muffy"
+    }
+  ],
+  "XXXX-02-15": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Kitty"
+    }
+  ],
+  "XXXX-02-16": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Anabelle"
+    }
+  ],
+  "XXXX-02-17": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Dobie"
+    }
+  ],
+  "XXXX-02-18": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Dora"
+    }
+  ],
+  "XXXX-02-19": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Freckles"
+    }
+  ],
+  "XXXX-02-20": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Sprinkle"
+    }
+  ],
+  "XXXX-02-21": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Puck"
+    }
+  ],
+  "XXXX-02-23": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Pate"
+    }
+  ],
+  "XXXX-02-24": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Anicotti"
+    }
+  ],
+  "XXXX-02-25": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Hamphrey"
+    }
+  ],
+  "XXXX-02-26": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Sheldon"
+    }
+  ],
+  "XXXX-02-27": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Rosie"
+    }
+  ],
+  "XXXX-02-28": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Naomi"
+    }
+  ],
+  "XXXX-03-01": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Coco"
+    }
+  ],
+  "XXXX-03-02": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Barold"
+    }
+  ],
+  "XXXX-03-03": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Bonbon"
+    }
+  ],
+  "XXXX-03-04": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Anchovy"
+    }
+  ],
+  "XXXX-03-05": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Gala"
+    }
+  ],
+  "XXXX-03-06": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Chai and Chevre"
+    }
+  ],
+  "XXXX-03-07": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Molly"
+    }
+  ],
+  "XXXX-03-08": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Zucker"
+    }
+  ],
+  "XXXX-03-09": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Cyrano"
+    }
+  ],
+  "XXXX-03-11": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Hopkins"
+    }
+  ],
+  "XXXX-03-12": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Midge"
+    }
+  ],
+  "XXXX-03-14": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Dotty"
+    }
+  ],
+  "XXXX-03-15": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Julian"
+    }
+  ],
+  "XXXX-03-16": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Doc"
+    }
+  ],
+  "XXXX-03-17": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Cheri"
+    }
+  ],
+  "XXXX-03-19": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Merengue"
+    }
+  ],
+  "XXXX-03-20": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Hornsby"
+    }
+  ],
+  "XXXX-03-21": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Elise"
+    }
+  ],
+  "XXXX-03-22": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Paula"
+    }
+  ],
+  "XXXX-03-23": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Axel"
+    }
+  ],
+  "XXXX-03-24": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Skye"
+    }
+  ],
+  "XXXX-03-25": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Billy and Celia"
+    }
+  ],
+  "XXXX-03-26": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Fauna and Louie"
+    }
+  ],
+  "XXXX-03-27": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Lolly"
+    }
+  ],
+  "XXXX-03-28": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Baabara"
+    }
+  ],
+  "XXXX-03-29": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Biff"
+    }
+  ],
+  "XXXX-03-30": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Felicity"
+    }
+  ],
+  "XXXX-03-31": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Klaus"
+    }
+  ],
+  "XXXX-04-02": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Cashmere and Tammi"
+    }
+  ],
+  "XXXX-04-03": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Eunice"
+    }
+  ],
+  "XXXX-04-04": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Buck"
+    }
+  ],
+  "XXXX-04-05": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Beau"
+    }
+  ],
+  "XXXX-04-06": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Hopper"
+    }
+  ],
+  "XXXX-04-07": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Rasher"
+    }
+  ],
+  "XXXX-04-08": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Maelle"
+    }
+  ],
+  "XXXX-04-09": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Stella"
+    }
+  ],
+  "XXXX-04-10": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Shari"
+    }
+  ],
+  "XXXX-04-11": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Punchy"
+    }
+  ],
+  "XXXX-04-12": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Melba"
+    }
+  ],
+  "XXXX-04-13": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Candi"
+    }
+  ],
+  "XXXX-04-14": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Rocket"
+    }
+  ],
+  "XXXX-04-16": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Marty and Vesta"
+    }
+  ],
+  "XXXX-04-17": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Charlise"
+    }
+  ],
+  "XXXX-04-18": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Piper"
+    }
+  ],
+  "XXXX-04-19": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Pietro"
+    }
+  ],
+  "XXXX-04-20": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Stu"
+    }
+  ],
+  "XXXX-04-21": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Agnes"
+    }
+  ],
+  "XXXX-04-22": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Phoebe"
+    }
+  ],
+  "XXXX-04-23": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Miranda"
+    }
+  ],
+  "XXXX-04-24": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Walt"
+    }
+  ],
+  "XXXX-04-25": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Bertha"
+    }
+  ],
+  "XXXX-04-26": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Kevin"
+    }
+  ],
+  "XXXX-04-27": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Katt"
+    }
+  ],
+  "XXXX-04-28": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Ava"
+    }
+  ],
+  "XXXX-04-29": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Coach"
+    }
+  ],
+  "XXXX-04-30": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Angus"
+    }
+  ],
+  "XXXX-05-01": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Clyde"
+    }
+  ],
+  "XXXX-05-02": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Mint"
+    }
+  ],
+  "XXXX-05-03": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Sylvia"
+    }
+  ],
+  "XXXX-05-04": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Deirdre"
+    }
+  ],
+  "XXXX-05-05": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Paolo"
+    }
+  ],
+  "XXXX-05-06": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Tank"
+    }
+  ],
+  "XXXX-05-07": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Ozzie"
+    }
+  ],
+  "XXXX-05-08": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Curlos"
+    }
+  ],
+  "XXXX-05-09": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Bunnie"
+    }
+  ],
+  "XXXX-05-10": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Patty"
+    }
+  ],
+  "XXXX-05-11": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Cherry"
+    }
+  ],
+  "XXXX-05-12": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Ellie"
+    }
+  ],
+  "XXXX-05-13": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Biskit"
+    }
+  ],
+  "XXXX-05-14": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Canberra"
+    }
+  ],
+  "XXXX-05-15": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Leonardo"
+    }
+  ],
+  "XXXX-05-16": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Ike"
+    }
+  ],
+  "XXXX-05-17": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Gayle"
+    }
+  ],
+  "XXXX-05-18": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Pekoe"
+    }
+  ],
+  "XXXX-05-19": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Olaf"
+    }
+  ],
+  "XXXX-05-20": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "T-Bone"
+    }
+  ],
+  "XXXX-05-21": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "June"
+    }
+  ],
+  "XXXX-05-22": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Colton"
+    }
+  ],
+  "XXXX-05-23": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Peggy"
+    }
+  ],
+  "XXXX-05-24": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Deli"
+    }
+  ],
+  "XXXX-05-25": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Derwin"
+    }
+  ],
+  "XXXX-05-26": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Bruce"
+    }
+  ],
+  "XXXX-05-27": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Del"
+    }
+  ],
+  "XXXX-05-28": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Cece and Renee"
+    }
+  ],
+  "XXXX-05-29": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Purrl"
+    }
+  ],
+  "XXXX-05-30": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Hamlet"
+    }
+  ],
+  "XXXX-05-31": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Marcie"
+    }
+  ],
+  "XXXX-06-01": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Keaton"
+    }
+  ],
+  "XXXX-06-02": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Inkwell and lucy"
+    }
+  ],
+  "XXXX-06-03": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Filbert"
+    }
+  ],
+  "XXXX-06-05": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Camofrog"
+    }
+  ],
+  "XXXX-06-06": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Raddle"
+    }
+  ],
+  "XXXX-06-07": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Zell"
+    }
+  ],
+  "XXXX-06-08": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Peanut"
+    }
+  ],
+  "XXXX-06-09": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Alfonso"
+    }
+  ],
+  "XXXX-06-10": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Walker"
+    }
+  ],
+  "XXXX-06-11": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Pudge and Holden"
+    }
+  ],
+  "XXXX-06-12": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Bettina"
+    }
+  ],
+  "XXXX-06-13": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Scoot"
+    }
+  ],
+  "XXXX-06-14": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Pippy"
+    }
+  ],
+  "XXXX-06-15": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Maple"
+    }
+  ],
+  "XXXX-06-16": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Roscoe"
+    }
+  ],
+  "XXXX-06-17": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Spike and Tangy"
+    }
+  ],
+  "XXXX-06-18": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Cookie"
+    }
+  ],
+  "XXXX-06-19": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Sally"
+    }
+  ],
+  "XXXX-06-20": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Graham"
+    }
+  ],
+  "XXXX-06-21": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Sydney"
+    }
+  ],
+  "XXXX-06-22": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Jacques"
+    }
+  ],
+  "XXXX-06-23": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Tammy"
+    }
+  ],
+  "XXXX-06-24": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Bluebear"
+    }
+  ],
+  "XXXX-06-25": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Drake"
+    }
+  ],
+  "XXXX-06-26": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Marina"
+    }
+  ],
+  "XXXX-06-27": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Deena"
+    }
+  ],
+  "XXXX-06-28": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Kidd"
+    }
+  ],
+  "XXXX-06-29": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Merry"
+    }
+  ],
+  "XXXX-06-30": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Broccolo and Weber"
+    }
+  ],
+  "XXXX-07-01": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Curt"
+    }
+  ],
+  "XXXX-07-02": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Agent S"
+    }
+  ],
+  "XXXX-07-03": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Blaire"
+    }
+  ],
+  "XXXX-07-04": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Apollo"
+    }
+  ],
+  "XXXX-07-05": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Samson"
+    }
+  ],
+  "XXXX-07-06": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Mira"
+    }
+  ],
+  "XXXX-07-07": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Bree and Viche"
+    }
+  ],
+  "XXXX-07-08": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Jeremiah"
+    }
+  ],
+  "XXXX-07-09": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Huck and Static"
+    }
+  ],
+  "XXXX-07-10": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Mott and Toby"
+    }
+  ],
+  "XXXX-07-11": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Filly and Victoria"
+    }
+  ],
+  "XXXX-07-12": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Olive"
+    }
+  ],
+  "XXXX-07-13": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Twiggy"
+    }
+  ],
+  "XXXX-07-14": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Dizzy"
+    }
+  ],
+  "XXXX-07-15": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Caroline"
+    }
+  ],
+  "XXXX-07-16": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Frita"
+    }
+  ],
+  "XXXX-07-17": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Jay"
+    }
+  ],
+  "XXXX-07-18": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Croque"
+    }
+  ],
+  "XXXX-07-19": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Nibbles"
+    }
+  ],
+  "XXXX-07-20": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Yuka"
+    }
+  ],
+  "XXXX-07-21": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Prince"
+    }
+  ],
+  "XXXX-07-22": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Chow"
+    }
+  ],
+  "XXXX-07-23": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Elvis"
+    }
+  ],
+  "XXXX-07-24": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "O'Hare and Rex"
+    }
+  ],
+  "XXXX-07-25": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Peck"
+    }
+  ],
+  "XXXX-07-26": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Curly"
+    }
+  ],
+  "XXXX-07-27": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Erik and Ketchup"
+    }
+  ],
+  "XXXX-07-28": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Truffles"
+    }
+  ],
+  "XXXX-07-29": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Lionel"
+    }
+  ],
+  "XXXX-07-30": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Frank"
+    }
+  ],
+  "XXXX-07-31": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Grizzly and Julia"
+    }
+  ],
+  "XXXX-08-01": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Kid Cat"
+    }
+  ],
+  "XXXX-08-02": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Vladimir"
+    }
+  ],
+  "XXXX-08-03": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Benjamin and Tad"
+    }
+  ],
+  "XXXX-08-04": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Bones"
+    }
+  ],
+  "XXXX-08-05": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Poppy"
+    }
+  ],
+  "XXXX-08-06": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Chester"
+    }
+  ],
+  "XXXX-08-07": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Boots and Rory"
+    }
+  ],
+  "XXXX-08-08": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Bud"
+    }
+  ],
+  "XXXX-08-09": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Soleil"
+    }
+  ],
+  "XXXX-08-10": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Cole"
+    }
+  ],
+  "XXXX-08-11": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Gigi"
+    }
+  ],
+  "XXXX-08-12": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Gloria"
+    }
+  ],
+  "XXXX-08-13": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Tabby"
+    }
+  ],
+  "XXXX-08-14": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Leopold and Rod"
+    }
+  ],
+  "XXXX-08-15": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Wendy"
+    }
+  ],
+  "XXXX-08-16": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Nate"
+    }
+  ],
+  "XXXX-08-17": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Stinky"
+    }
+  ],
+  "XXXX-08-18": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Rocco"
+    }
+  ],
+  "XXXX-08-19": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Alice and Tybalt"
+    }
+  ],
+  "XXXX-08-20": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Lopez"
+    }
+  ],
+  "XXXX-08-21": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Wart Jr."
+    }
+  ],
+  "XXXX-08-22": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Rolf"
+    }
+  ],
+  "XXXX-08-23": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Nana"
+    }
+  ],
+  "XXXX-08-24": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Jacob and Nan"
+    }
+  ],
+  "XXXX-08-25": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Tipper"
+    }
+  ],
+  "XXXX-08-26": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Rowan"
+    }
+  ],
+  "XXXX-08-27": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Bangle"
+    }
+  ],
+  "XXXX-08-28": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Chrissy"
+    }
+  ],
+  "XXXX-08-29": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Gruff"
+    }
+  ],
+  "XXXX-08-30": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Hazel"
+    }
+  ],
+  "XXXX-09-01": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Violet"
+    }
+  ],
+  "XXXX-09-02": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Flo"
+    }
+  ],
+  "XXXX-09-03": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Maggie and Spork"
+    }
+  ],
+  "XXXX-09-04": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Cally"
+    }
+  ],
+  "XXXX-09-05": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Greta"
+    }
+  ],
+  "XXXX-09-06": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Cesar"
+    }
+  ],
+  "XXXX-09-07": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Tucker"
+    }
+  ],
+  "XXXX-09-08": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Astrid"
+    }
+  ],
+  "XXXX-09-09": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Pinky"
+    }
+  ],
+  "XXXX-09-10": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Pecan"
+    }
+  ],
+  "XXXX-09-11": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Peewee"
+    }
+  ],
+  "XXXX-09-12": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Boone"
+    }
+  ],
+  "XXXX-09-13": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Moose"
+    }
+  ],
+  "XXXX-09-14": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Ricky"
+    }
+  ],
+  "XXXX-09-15": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Tutu"
+    }
+  ],
+  "XXXX-09-16": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Ed"
+    }
+  ],
+  "XXXX-09-17": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Whitney"
+    }
+  ],
+  "XXXX-09-18": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Bubbles"
+    }
+  ],
+  "XXXX-09-19": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Fuchsia"
+    }
+  ],
+  "XXXX-09-20": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Norma and Octavian"
+    }
+  ],
+  "XXXX-09-21": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Henry"
+    }
+  ],
+  "XXXX-09-22": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Ankha"
+    }
+  ],
+  "XXXX-09-23": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Cranston"
+    }
+  ],
+  "XXXX-09-24": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Apple"
+    }
+  ],
+  "XXXX-09-25": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Mitzi"
+    }
+  ],
+  "XXXX-09-26": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Teddy"
+    }
+  ],
+  "XXXX-09-27": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Beardo"
+    }
+  ],
+  "XXXX-09-28": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Kody"
+    }
+  ],
+  "XXXX-09-29": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Marshal"
+    }
+  ],
+  "XXXX-09-30": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Monique"
+    }
+  ],
+  "XXXX-10-01": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Boyd"
+    }
+  ],
+  "XXXX-10-02": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Diva"
+    }
+  ],
+  "XXXX-10-03": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Big Top"
+    }
+  ],
+  "XXXX-10-04": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Goose"
+    }
+  ],
+  "XXXX-10-05": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Elmer"
+    }
+  ],
+  "XXXX-10-06": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Bitty and Tex"
+    }
+  ],
+  "XXXX-10-07": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Cobb"
+    }
+  ],
+  "XXXX-10-08": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Kiki"
+    }
+  ],
+  "XXXX-10-09": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Drift"
+    }
+  ],
+  "XXXX-10-10": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Benedict"
+    }
+  ],
+  "XXXX-10-11": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Kitt"
+    }
+  ],
+  "XXXX-10-12": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Lyman and Plucky"
+    }
+  ],
+  "XXXX-10-13": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Chops and Gonzo"
+    }
+  ],
+  "XXXX-10-14": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Egbert"
+    }
+  ],
+  "XXXX-10-15": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Bea and Hippeux"
+    }
+  ],
+  "XXXX-10-16": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Friga"
+    }
+  ],
+  "XXXX-10-17": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Limberg"
+    }
+  ],
+  "XXXX-10-18": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Al"
+    }
+  ],
+  "XXXX-10-19": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Clay"
+    }
+  ],
+  "XXXX-10-20": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Antonio"
+    }
+  ],
+  "XXXX-10-21": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Sandy and Timbra"
+    }
+  ],
+  "XXXX-10-22": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Sylvana"
+    }
+  ],
+  "XXXX-10-23": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Groucho"
+    }
+  ],
+  "XXXX-10-24": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Broffina and Snooty"
+    }
+  ],
+  "XXXX-10-25": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Portia"
+    }
+  ],
+  "XXXX-10-26": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Eugene"
+    }
+  ],
+  "XXXX-10-27": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Jambette"
+    }
+  ],
+  "XXXX-10-28": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Gaston"
+    }
+  ],
+  "XXXX-10-29": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Rodeo"
+    }
+  ],
+  "XXXX-10-30": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Wade"
+    }
+  ],
+  "XXXX-11-01": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Butch and Rilla"
+    }
+  ],
+  "XXXX-11-02": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Iggly"
+    }
+  ],
+  "XXXX-11-03": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Snake"
+    }
+  ],
+  "XXXX-11-04": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Lucky"
+    }
+  ],
+  "XXXX-11-05": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Lobo"
+    }
+  ],
+  "XXXX-11-06": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Boris"
+    }
+  ],
+  "XXXX-11-07": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Bam"
+    }
+  ],
+  "XXXX-11-08": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Alli"
+    }
+  ],
+  "XXXX-11-09": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Pango"
+    }
+  ],
+  "XXXX-11-10": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Rodney"
+    }
+  ],
+  "XXXX-11-11": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Mac"
+    }
+  ],
+  "XXXX-11-12": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Mathilda"
+    }
+  ],
+  "XXXX-11-13": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Queenie"
+    }
+  ],
+  "XXXX-11-14": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Pancetti"
+    }
+  ],
+  "XXXX-11-15": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Sly"
+    }
+  ],
+  "XXXX-11-16": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Daisy"
+    }
+  ],
+  "XXXX-11-17": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Mallary"
+    }
+  ],
+  "XXXX-11-18": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Tia"
+    }
+  ],
+  "XXXX-11-19": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Amelia"
+    }
+  ],
+  "XXXX-11-20": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Sparro"
+    }
+  ],
+  "XXXX-11-21": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Epona and Flip"
+    }
+  ],
+  "XXXX-11-22": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Claudia"
+    }
+  ],
+  "XXXX-11-23": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Knox"
+    }
+  ],
+  "XXXX-11-24": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Shep"
+    }
+  ],
+  "XXXX-11-25": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Wolfgang"
+    }
+  ],
+  "XXXX-11-26": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Willow"
+    }
+  ],
+  "XXXX-11-27": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Phil"
+    }
+  ],
+  "XXXX-11-28": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Peaches"
+    }
+  ],
+  "XXXX-11-29": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Kabuki"
+    }
+  ],
+  "XXXX-11-30": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Tasha"
+    }
+  ],
+  "XXXX-12-01": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Rooney and Sprocket"
+    }
+  ],
+  "XXXX-12-02": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Annalise and Wolf Link"
+    }
+  ],
+  "XXXX-12-03": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Claude"
+    }
+  ],
+  "XXXX-12-04": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Robin"
+    }
+  ],
+  "XXXX-12-05": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Hans and Carrie"
+    }
+  ],
+  "XXXX-12-06": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Kyle"
+    }
+  ],
+  "XXXX-12-07": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Monty and Buzz"
+    }
+  ],
+  "XXXX-12-08": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Eloise"
+    }
+  ],
+  "XXXX-12-09": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Becky"
+    }
+  ],
+  "XXXX-12-10": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Tom"
+    }
+  ],
+  "XXXX-12-11": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Sterling"
+    }
+  ],
+  "XXXX-12-12": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Lucha"
+    }
+  ],
+  "XXXX-12-13": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Bianca and Medli"
+    }
+  ],
+  "XXXX-12-14": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Freya"
+    }
+  ],
+  "XXXX-12-15": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Chadder"
+    }
+  ],
+  "XXXX-12-16": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Gabi"
+    }
+  ],
+  "XXXX-12-17": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Cousteau"
+    }
+  ],
+  "XXXX-12-18": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Fang"
+    }
+  ],
+  "XXXX-12-19": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Chief"
+    }
+  ],
+  "XXXX-12-20": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Rudy"
+    }
+  ],
+  "XXXX-12-21": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Blanche"
+    }
+  ],
+  "XXXX-12-22": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Quillson"
+    }
+  ],
+  "XXXX-12-23": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Ken"
+    }
+  ],
+  "XXXX-12-25": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Etoile and Ruby"
+    }
+  ],
+  "XXXX-12-26": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Pashmina"
+    }
+  ],
+  "XXXX-12-27": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Goldie"
+    }
+  ],
+  "XXXX-12-28": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Bella"
+    }
+  ],
+  "XXXX-12-29": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Murphy and Vic"
+    }
+  ],
+  "XXXX-12-30": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Hugh"
+    }
+  ],
+  "XXXX-12-31": [
+    {
+      "icon": "https://raw.githubusercontent.com/NightArcher2740/nightarcher2740.github.io/refs/heads/main/img/BirthdayIcon.png",
+      "alt": "Marcel"
+    }
+  ]
 }

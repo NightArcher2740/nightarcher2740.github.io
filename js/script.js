@@ -33,11 +33,15 @@ document.addEventListener('DOMContentLoaded', function() {
     for (let d = 1; d <= daysInMonth; d++) {
       let isToday = d === today.getDate() && month === today.getMonth() && year === today.getFullYear();
       let dateKey = getYearlyDateKey(month, d);
-      let eventIcon = '';
-      if (events[dateKey]) {
-        eventIcon = `<img src="${events[dateKey].icon}" alt="${events[dateKey].alt}" title="${events[dateKey].alt}" class="icon" />`;
+      let rawEvents = events[dateKey];
+      let eventIcons = '';
+      if (rawEvents) {
+        let eventArr = Array.isArray(rawEvents) ? rawEvents : [rawEvents];
+        eventIcons = eventArr.map(ev =>
+          `<img src="${ev.icon}" alt="${ev.alt}" title="${ev.alt}" class="icon" />`
+        ).join('');
       }
-      daysContainer.innerHTML += `<div class="${isToday ? 'today' : ''}" data-day="${d}">${d}${eventIcon}</div>`;
+      daysContainer.innerHTML += `<div class="${isToday ? 'today' : ''}" data-day="${d}">${d}${eventIcons}</div>`;
     }
   }
 
