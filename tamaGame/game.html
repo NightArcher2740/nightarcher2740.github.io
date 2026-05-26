@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tamagotchi+</title>
+
+    <!-- Main stylesheet -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <!-- ============================================================
+         TITLE SCREEN
+         ============================================================ -->
+    <div id="titleScreen">
+        <img id="titleBg" src="backgrounds/bg_title.png">
+        <h1>Tamagotchi+</h1>
+        <button onclick="startGame()">Start Game</button>
+    </div>
+
+
+    <!-- ============================================================
+         NAME ENTRY SCREEN
+         ============================================================ -->
+    <div id="nameScreen" class="hidden">
+        <img id="nameBg" src="backgrounds/bg_title.png">
+
+        <h2>Name Your Pet</h2>
+
+        <input id="petNameInput" type="text" maxlength="20" placeholder="Enter name">
+        <br><br>
+        <button onclick="confirmName()">Continue</button>
+    </div>
+
+
+    <!-- ============================================================
+         MAIN GAME SCREEN
+         ============================================================ -->
+    <div id="game" class="hidden">
+
+        <!-- Background + house + pet sprite -->
+        <img id="background" src="backgrounds/bg_day.png">
+        <img id="house" src="backgrounds/house.png">
+        <img id="pet" src="sprites/pet_idle1.png">
+
+        <!-- Stats panel -->
+        <div id="stats"></div>
+
+        <!-- Main action buttons -->
+        <div id="buttons">
+            <button onclick="openInventoryPopup('feed')">Feed</button>
+            <button onclick="play()">Play</button>
+            <button onclick="sleep()">Sleep</button>
+            <button onclick="openInventoryPopup('medicine')">Medicine</button>
+
+            <button onclick="openShop()">Shop</button>
+            <button onclick="openSettings()">Settings</button>
+
+            <!-- ❌ REMOVE THIS — old inventory system -->
+            <!-- <button onclick="openInventory()">Inventory</button> -->
+        </div>
+
+        <!-- Inventory popup overlay -->
+        <div id="inventoryOverlay" class="hidden">
+            <div id="inventoryPopup">
+                <h2>Select Item</h2>
+                <div id="inventoryChoices"></div>
+
+                <button onclick="closeInventoryPopup()">Cancel</button>
+            </div>
+        </div>
+
+        <!-- Temporary message display -->
+        <p id="message"></p>
+    </div>
+
+
+    <!-- ============================================================
+         SHOP SCREEN
+         ============================================================ -->
+    <div id="shopScreen" class="hidden">
+        <img id="shopBg" src="backgrounds/bg_shop.png">
+
+        <h2>Shop</h2>
+
+        <div id="shopItems">
+            <p id="shopCoins" class="shopCoins"></p>
+
+            <button onclick="buyItem('apple')">Apple (£5)</button>
+            <button onclick="buyItem('cake')">Cake (£10)</button>
+            <button onclick="buyItem('medicine')">Medicine (£20)</button>
+        </div>
+
+        <button onclick="returnToGame()">Back</button>
+    </div>
+
+
+    <!-- ============================================================
+         SETTINGS SCREEN
+         ============================================================ -->
+    <div id="settingsScreen" class="hidden">
+        <img id="settingsBg" src="backgrounds/bg_title.png">
+
+        <h2>Settings</h2>
+
+        <button onclick="confirmReset()">Reset Pet</button>
+        <br><br>
+        <button onclick="returnToGame()">Back</button>
+    </div>
+
+
+    <!-- ============================================================
+         RESET CONFIRMATION POPUP
+         ============================================================ -->
+    <div id="resetOverlay" class="hidden">
+        <div id="resetPopup">
+            <h2>Reset Pet?</h2>
+            <p>This will erase all progress and cannot be undone.</p>
+
+            <div class="resetButtons">
+                <button onclick="doReset()">Yes, Reset</button>
+                <button onclick="closeResetPopup()">Cancel</button>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- ============================================================
+         SCRIPT LOADING ORDER
+         ============================================================ -->
+    <script src="js/save.js"></script>
+    <script src="js/pet.js"></script>
+    <script src="js/ui.js"></script>
+    <script src="js/actions.js"></script>
+    <script src="js/shop.js"></script>
+    <script src="js/animation.js"></script>
+    <script src="js/main.js"></script>
+
+</body>
+</html>
