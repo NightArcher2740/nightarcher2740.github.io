@@ -7,6 +7,7 @@ let pet = {
     hunger: 50,          // 0 = starving, 100 = full
     happiness: 50,       // 0 = sad, 100 = very happy
     energy: 50,          // 0 = exhausted, 100 = full energy
+    dirty: false,
     age: 0,              // increases over time
     coins: 20,           // currency for shop
     sick: false,         // sickness status
@@ -39,6 +40,12 @@ function updatePet() {
 
     // Age increases slowly (300 seconds = 1 age unit)
     pet.age += elapsed / 300;
+
+    // Random chance to become dirty over time
+    if (!pet.dirty && Math.random() < 0.0002 * elapsed) {
+        pet.dirty = true;
+        showMessage("Your pet made a mess!");
+    }
 
     /* ------------------------------
        Apply sickness effects

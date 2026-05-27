@@ -1,12 +1,4 @@
 /* ============================================================
-   GLOBAL STATE
-   ============================================================ */
-
-// Tracks whether the inventory popup is being used for feeding or medicine
-let inventoryMode = null; // "feed" or "medicine"
-
-
-/* ============================================================
    GAME STARTUP
    ============================================================ */
 
@@ -32,7 +24,6 @@ function startGame() {
     setInterval(updatePet, 1000);
     setInterval(animatePet, 500);
 }
-
 
 /* ============================================================
    NAMING SYSTEM
@@ -61,7 +52,6 @@ function confirmName() {
     setInterval(animatePet, 500);
 }
 
-
 /* ============================================================
    SHOP SYSTEM
    ============================================================ */
@@ -76,11 +66,11 @@ function returnToGame() {
     // Hide all secondary screens
     document.getElementById("settingsScreen").classList.add("hidden");
     document.getElementById("shopScreen").classList.add("hidden");
+    document.getElementById("minigameScreen").classList.add("hidden"); // ← FIX
 
     // Return to main game
     document.getElementById("game").classList.remove("hidden");
 }
-
 
 /* ============================================================
    SETTINGS + RESET SYSTEM
@@ -136,35 +126,39 @@ function doReset() {
     document.getElementById("nameScreen").classList.remove("hidden");
 }
 
-
 /* ============================================================
-   INVENTORY POPUP SYSTEM (REPLACES OLD INVENTORY SCREEN)
+   INVENTORY POPUP SYSTEM
    ============================================================ */
 
-// Open inventory popup for feeding or medicine
+let inventoryMode = null;
+
+// Open inventory popup
 function openInventoryPopup(mode) {
     inventoryMode = mode;
 
     const overlay = document.getElementById("inventoryOverlay");
     const choices = document.getElementById("inventoryChoices");
 
-    // Build popup contents depending on mode
     if (mode === "feed") {
         choices.innerHTML = `
-            <p>Apples: ${pet.food.apple} 
+            <h2>Food Inventory</h2>
+            <p>Apples: <span id="appleCount">${pet.food.apple}</span>
                 <button onclick="selectInventoryItem('apple')">Use</button>
             </p>
-            <p>Cakes: ${pet.food.cake} 
+            <p>Cakes: <span id="cakeCount">${pet.food.cake}</span>
                 <button onclick="selectInventoryItem('cake')">Use</button>
             </p>
+            <button class="closeBtn" onclick="closeInventoryPopup()">Close</button>
         `;
     }
 
     if (mode === "medicine") {
         choices.innerHTML = `
-            <p>Medicine: ${pet.medicine} 
+            <h2>Medicine</h2>
+            <p>Medicine: <span id="medicineCount">${pet.medicine}</span>
                 <button onclick="selectInventoryItem('medicine')">Use</button>
             </p>
+            <button class="closeBtn" onclick="closeInventoryPopup()">Close</button>
         `;
     }
 
@@ -172,7 +166,7 @@ function openInventoryPopup(mode) {
     overlay.classList.add("show");
 }
 
-// Close inventory popup
+// Close popup
 function closeInventoryPopup() {
     const overlay = document.getElementById("inventoryOverlay");
     overlay.classList.remove("show");
@@ -182,17 +176,54 @@ function closeInventoryPopup() {
     }, 300);
 }
 
-// Handle item selection
+// Handle item use
 function selectInventoryItem(item) {
-    if (inventoryMode === "feed") {
-        feedPet(item);
+
+    // FOOD
+    if (item === "apple" || item === "cake") {
+        const used = feed(item);
+        if (!used) return;
+
+        if (item === "apple") {
+            document.getElementById("appleCount").textContent = pet.food.apple;
+        } else {
+            document.getElementById("cakeCount").textContent = pet.food.cake;
+        }
     }
 
-    if (inventoryMode === "medicine") {
-        healPet();
+    // MEDICINE
+    if (item === "medicine") {
+        const used = giveMedicine();
+        if (!used) return;
+
+        document.getElementById("medicineCount").textContent = pet.medicine;
     }
 
-    inventoryMode = null;
-    closeInventoryPopup();
-    drawUI();
+    drawUI(); // Update stats
 }
+
+/* ============================================================
+   MINIGAME SYSTEM (placeholder)
+   ============================================================ */
+
+function openMinigame() {
+    document.getElementById("game").classList.add("hidden");
+    document.getElementById("minigameScreen").classList.remove("hidden");
+}
+
+function finishMinigame() {
+    const reward = 10;
+    pet.coins += reward;
+    pet.happiness += 20;
+
+    showMessage(`You earned £${reward} from the minigame!`);
+
+    saveGame();
+    drawUI();
+
+    document.getElementById("minigameScreen").classList.add("hidden");
+    document.getElementById("game").classList.remove("hidden");
+}
+
+
+

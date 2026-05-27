@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tamagotchi+</title>
+    <title>Tamagotchi</title>
 
     <!-- Main stylesheet -->
     <link rel="stylesheet" href="css/style.css">
@@ -16,7 +16,7 @@
          ============================================================ -->
     <div id="titleScreen">
         <img id="titleBg" src="backgrounds/bg_title.png">
-        <h1>Tamagotchi+</h1>
+        <h1>Tamagotchi</h1>
         <button onclick="startGame()">Start Game</button>
     </div>
 
@@ -51,7 +51,8 @@
         <!-- Main action buttons -->
         <div id="buttons">
             <button onclick="openInventoryPopup('feed')">Feed</button>
-            <button onclick="play()">Play</button>
+            <button onclick="openMinigame()">Minigame</button>
+            <button onclick="cleanPet()">Clean</button>
             <button onclick="sleep()">Sleep</button>
             <button onclick="openInventoryPopup('medicine')">Medicine</button>
 
@@ -64,17 +65,12 @@
 
         <!-- Inventory popup overlay -->
         <div id="inventoryOverlay" class="hidden">
-            <div id="inventoryPopup">
-                <h2>Select Item</h2>
-                <div id="inventoryChoices"></div>
-
-                <button onclick="closeInventoryPopup()">Cancel</button>
+            <div id="inventoryChoices"></div>
             </div>
-        </div>
 
-        <!-- Temporary message display -->
-        <p id="message"></p>
-    </div>
+                    <!-- Temporary message display -->
+                    <p id="message"></p>
+        </div>
 
 
     <!-- ============================================================
@@ -110,6 +106,18 @@
         <button onclick="returnToGame()">Back</button>
     </div>
 
+    <!-- ============================================================
+         GAME SCREEN
+         ============================================================ -->
+
+    <div id="minigameScreen" class="hidden">
+        <h2>Minigame Coming Soon!</h2>
+        <p>I will build this later.</p>
+
+        <button onclick="finishMinigame()">Finish Minigame</button>
+        <button onclick="returnToGame()">Back</button>
+    </div>
+
 
     <!-- ============================================================
          RESET CONFIRMATION POPUP
@@ -125,7 +133,6 @@
             </div>
         </div>
     </div>
-
 
     <!-- ============================================================
          SCRIPT LOADING ORDER

@@ -1,31 +1,50 @@
 /* ============================================================
    FEEDING SYSTEM
-   Handles food availability, hunger increase, and mood changes
    ============================================================ */
-function feed() {
-
-    // If no food of any type exists, stop immediately
-    if (pet.food.apple + pet.food.cake === 0) {
-        showMessage("No food!");
-        return;
+function feed(item) {
+    if (!pet.food[item] || pet.food[item] <= 0) {
+        showMessage("You don't have any!");
+        return false;
     }
 
-    // Prefer apples first — if none, use cake
-    if (pet.food.apple > 0) {
-        pet.food.apple--;      // Use one apple
-        pet.hunger += 20;      // Apples restore 20 hunger
-    } else {
-        pet.food.cake--;       // Use one cake
-        pet.hunger += 40;      // Cakes restore 40 hunger
+    pet.food[item]--;
+
+    if (item === "apple") {
+        pet.hunger += 20;
+    } else if (item === "cake") {
+        pet.hunger += 40;
+        pet.happiness += 10;
     }
 
-    // Feeding makes the pet happy
-    pet.mood = "happy";
+    pet.hunger = Math.min(100, pet.hunger);
 
+    showMessage(`You fed your pet a ${item}!`);
     saveGame();
-    drawUI();
+    return true;
 }
 
+/* ============================================================
+   MEDICINE SYSTEM
+   ============================================================ */
+function giveMedicine() {
+    if (pet.medicine <= 0) {
+        showMessage("No medicine!");
+        return false;
+    }
+
+    if (!pet.sick) {
+        showMessage("Your pet is not sick.");
+        return false;
+    }
+
+    pet.medicine--;
+    pet.sick = false;
+    pet.mood = "happy";
+
+    showMessage("Your pet is healed!");
+    saveGame();
+    return true;
+}
 
 /* ============================================================
    PLAY SYSTEM
@@ -47,7 +66,6 @@ function play() {
     drawUI();
 }
 
-
 /* ============================================================
    SLEEP SYSTEM
    Restores energy and sets mood
@@ -64,31 +82,24 @@ function sleep() {
     drawUI();
 }
 
-
 /* ============================================================
-   MEDICINE SYSTEM
-   Heals sickness if medicine is available
+   CLEANING SYSTEM
+   Pet occasionally becomes dirty → cleaning earns coins
    ============================================================ */
-function giveMedicine() {
-
-    // No medicine available
-    if (pet.medicine <= 0) {
-        showMessage("No medicine!");
+function cleanPet() {
+    if (!pet.dirty) {
+        showMessage("Nothing to clean.");
         return;
     }
 
-    // Pet is not sick — medicine would be wasted
-    if (!pet.sick) {
-        showMessage("Your pet is not sick.");
-        return;
-    }
+    pet.dirty = false;
 
-    pet.medicine--;        // Use one medicine
-    pet.sick = false;      // Cure sickness
-    pet.mood = "happy";    // Pet becomes happy
+    const reward = 5;
+    pet.coins += reward;
 
-    showMessage("Your pet is healed!");
+    showMessage(`You cleaned up! +£${reward}`);
 
     saveGame();
     drawUI();
 }
+

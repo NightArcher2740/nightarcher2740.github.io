@@ -288,9 +288,7 @@
     border: var(--border-popup);
 }
 
-/* ============================================================
-   INVENTORY POPUP
-   ============================================================ */
+/* === Inventory Overlay Background === */
 #inventoryOverlay {
     position: absolute;
     top: 0;
@@ -312,7 +310,8 @@
     pointer-events: auto;
 }
 
-#inventoryPopup {
+/* === Popup Box === */
+#inventoryChoices {
     background: var(--color-bg-dark);
     border: var(--border-popup);
     padding: 20px;
@@ -320,4 +319,75 @@
     text-align: center;
     color: var(--color-text);
     box-shadow: 0 0 20px black;
+    animation: popupIn 0.3s ease
+}
+
+/* === Header === */
+#inventoryChoices h2 {
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-size: 22px;
+    text-align: center;
+}
+
+/* === Item Rows === */
+#inventoryChoices p {
+    font-size: 18px;
+    margin: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* === Buttons === */
+#inventoryChoices button {
+    margin: 10px;
+    padding: var(--button-padding);
+    font-size: 16px;
+    background: var(--button-bg);
+    color: var(--button-text);
+    border: var(--border-popup);
+}
+
+#inventoryChoices button:hover {
+    background: #ddd;
+}
+
+/* === Close Button === */
+#inventoryChoices .closeBtn {
+    width: 100%;
+    padding: var(--button-padding);
+    font-size: 16px;
+    background: var(--button-bg);
+    color: var(--button-text);
+    border: var(--border-popup);
+}
+
+#minigameScreen {
+    width: var(--screen-size);
+    height: var(--screen-size);
+    position: relative;
+    border: var(--border-thick);
+    text-align: center;
+    color: var(--color-text);
+}
+
+#minigameBg {
+    position: absolute;
+    width: var(--screen-size);
+    height: var(--screen-size);
+    top: 0;
+    left: 0;
+    z-index: var(--z-back);
+}
+
+#minigameScreen button {
+    position: relative;
+    z-index: var(--z-ui);
+    margin: 10px;
+    padding: var(--button-padding);
+    font-size: 18px;
+    background: var(--button-bg);
+    color: var(--button-text);
+    border: var(--border-popup);
 }
